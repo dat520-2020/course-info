@@ -47,7 +47,7 @@ to others. These labs will *not be graded*, but must be completed to at least
 the level of passing (> 60 points per lab). You will not be told your grade
 points, only pass/fail.
 
-**Labs 3-6:** The last four lab handins will be a larger project which will
+**Labs 3-5:** The last four lab handins will be a larger project which will
 require a significant amount of work. We expect students to form groups and
 work together on these lab handins. For these lab handins the passing level
 will also be > 60 points per lab. We will evaluate each handin separately 
