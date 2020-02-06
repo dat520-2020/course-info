@@ -31,7 +31,7 @@ your grade is reduced by 5 points.
 ##Approval Process
 
 Once you have passed the necessary tests for approval/grading of one of
-the labs *you must* come to the Linux lab (E454) and demonstrate/show your
+the labs *you must* come to the lab (D123) and demonstrate/show your
 code. *This is a requirement for approval.*
 
 ##Labs
